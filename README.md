@@ -23,7 +23,7 @@ Assignments and projects will reinforce learning through practical exercises and
 
 ## Evaluation
 
-Evaluation includes assignments, projects, quizzes, and a final exam.
+Evaluation includes assignments, projects.
 
 ## Contact
 
